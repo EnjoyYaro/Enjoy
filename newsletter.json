@@ -1,0 +1,66 @@
+{
+    "newsletterId": "001",
+    "title": "Tech Insights Weekly",
+    "description": "Your weekly dose of technology news, trends, and tutorials delivered straight to your inbox.",
+    "publishedDate": "2024-08-14T10:00:00Z",
+    "author": {
+        "name": "Jinesh Prajapat",
+        "email": "jinesh.prajapat@example.com",
+        "profileURL": "/authors/jinesh-prajapat",
+        "bio": "Jinesh Prajapat is a full-stack developer with a passion for AI and emerging technologies."
+    },
+    "sections": [
+        {
+            "sectionId": "001",
+            "heading": "Featured Article: The Rise of AI in Healthcare",
+            "content": "In this week's featured article, we explore how AI is transforming healthcare, from predictive analytics to personalized medicine. Discover the latest trends and innovations that are shaping the future of healthcare.",
+            "articleURL": "/articles/ai-in-healthcare"
+        },
+        {
+            "sectionId": "002",
+            "heading": "Tech Tip: Optimizing React Performance",
+            "content": "Learn how to improve the performance of your React applications with these essential optimization techniques. From lazy loading components to memoization, boost your app's speed and efficiency.",
+            "articleURL": "/articles/react-performance-tips"
+        },
+        {
+            "sectionId": "003",
+            "heading": "Tutorial: Building a REST API with Node.js",
+            "content": "Follow our step-by-step tutorial on how to build a REST API using Node.js. We'll guide you through setting up your environment, creating endpoints, and testing your API.",
+            "articleURL": "/tutorials/building-rest-api-nodejs"
+        },
+        {
+            "sectionId": "004",
+            "heading": "Industry News: Quantum Computing Breakthrough",
+            "content": "This week in tech news, a major breakthrough in quantum computing has been announced. Learn how this development could change the landscape of computing and data security.",
+            "articleURL": "/news/quantum-computing-breakthrough"
+        },
+        {
+            "sectionId": "005",
+            "heading": "Upcoming Webinar: Exploring LLMs",
+            "content": "Join us for an upcoming webinar where experts discuss the latest advancements in large language models (LLMs) and their impact on AI development. Register now to secure your spot!",
+            "registrationURL": "/webinars/llms-exploration"
+        },
+        {
+            "sectionId": "006",
+            "heading": "Community Spotlight: Open-Source Contributions",
+            "content": "Meet this month's featured contributor who has made significant contributions to open-source projects in AI. Learn about their journey and how you can get involved in the community.",
+            "profileURL": "/community/spotlight/open-source-contributor"
+        },
+        {
+            "sectionId": "007",
+            "heading": "Survey: Your Feedback Matters",
+            "content": "We value your input! Take our quick survey to share your thoughts on our newsletter and help us improve the content we deliver.",
+            "surveyURL": "/surveys/newsletter-feedback"
+        }
+    ],
+    "footer": {
+        "unsubscribeLink": "/unsubscribe",
+        "contactEmail": "support@example.com",
+        "socialLinks": {
+            "twitter": "https://twitter.com/example",
+            "linkedin": "https://linkedin.com/company/example",
+            "facebook": "https://facebook.com/example"
+        },
+        "disclaimer": "You are receiving this newsletter because you subscribed on our website. If you no longer wish to receive these emails, please unsubscribe using the link above."
+    }
+}

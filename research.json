@@ -1,0 +1,190 @@
+{
+    "Machine Learning": [
+        {
+            "postId": "1",
+            "title": "A Comprehensive Study on Transformer Models",
+            "imgURL": "",
+            "content": "This paper presents an in-depth analysis of Transformer models, which have revolutionized natural language processing. We explore the architecture, attention mechanisms, and performance improvements over traditional RNNs.",
+            "tags": [
+                "Transformer",
+                "NLP",
+                "Research"
+            ],
+            "categories": [
+                "AI",
+                "Models"
+            ],
+            "publishedDate": "2024-02-01T10:00:00Z",
+            "updatedDate": "2024-02-02T11:00:00Z",
+            "summary": "An in-depth analysis of Transformer models and their impact on natural language processing."
+        },
+        {
+            "postId": "8",
+            "title": "Innovative Approaches to Natural Language Understanding",
+            "imgURL": "",
+            "content": "This research proposes new methodologies for improving natural language understanding (NLU) in AI systems, focusing on semantic representation and context-aware processing in conversational AI.",
+            "tags": [
+                "Natural Language Understanding",
+                "NLU",
+                "AI"
+            ],
+            "categories": [
+                "AI",
+                "Models"
+            ],
+            "publishedDate": "2024-05-15T20:00:00Z",
+            "updatedDate": "2024-05-16T21:00:00Z",
+            "summary": "Proposing innovative approaches to enhance natural language understanding in AI systems."
+        },
+        {
+            "postId": "9",
+            "title": "Building REST APIs with Node.js",
+            "imgURL": "",
+            "content": "REST APIs are a popular way to structure web services. Node.js provides a runtime for building scalable and efficient REST APIs.",
+            "tags": [
+                "Node.js",
+                "REST",
+                "API"
+            ],
+            "categories": [
+                "Development",
+                "Backend"
+            ],
+            "publishedDate": "2024-01-15T12:00:00Z",
+            "updatedDate": "2024-01-16T13:00:00Z",
+            "summary": "Learn how to build REST APIs using Node.js and best practices."
+        },
+        {
+            "postId": "12",
+            "title": "Revolutionizing Drug Discovery with AI and Machine Learning",
+            "imgURL": "",
+            "content": "This paper discusses the integration of AI and machine learning in drug discovery, highlighting new algorithms that accelerate the identification of potential drug candidates and reduce research costs.",
+            "tags": [
+                "Drug Discovery",
+                "AI",
+                "Machine Learning"
+            ],
+            "categories": [
+                "AI",
+                "Healthcare"
+            ],
+            "publishedDate": "2024-07-01T12:00:00Z",
+            "updatedDate": "2024-07-02T13:00:00Z",
+            "summary": "Exploring the transformative impact of AI and machine learning on the drug discovery process."
+        },
+        {
+            "postId": "11",
+            "title": "AI Models for Predictive Maintenance in Manufacturing",
+            "imgURL": "",
+            "content": "This research introduces AI models designed for predictive maintenance in manufacturing, aiming to reduce downtime and optimize production efficiency through early detection of equipment failures.",
+            "tags": [
+                "Predictive Maintenance",
+                "Manufacturing",
+                "AI"
+            ],
+            "categories": [
+                "AI",
+                "Industry"
+            ],
+            "publishedDate": "2024-06-15T10:00:00Z",
+            "updatedDate": "2024-06-16T11:00:00Z",
+            "summary": "Introducing AI models that improve predictive maintenance strategies in the manufacturing sector."
+        },
+        {
+            "postId": "15",
+            "title": "AI in Finance: Predicting Markets with Machine Learning",
+            "imgURL": "",
+            "content": "Machine learning algorithms are increasingly being used in finance to predict market trends, manage risks, and optimize trading strategies.",
+            "tags": [
+                "AI",
+                "Finance",
+                "Machine Learning"
+            ],
+            "categories": [
+                "Development",
+                "AI"
+            ],
+            "publishedDate": "2024-08-15T18:00:00Z",
+            "updatedDate": "2024-08-16T19:00:00Z",
+            "summary": "Learn how AI is being used to predict market behavior and improve financial decision-making."
+        }
+    ],
+    "Computer Vision": [
+        {
+            "postId": "5",
+            "title": "AI-Driven Innovations in Computer Vision for Autonomous Vehicles",
+            "imgURL": "",
+            "content": "This research explores the latest advancements in computer vision techniques for autonomous vehicles, including new algorithms for object detection, segmentation, and real-time processing in dynamic environments.",
+            "tags": [
+                "Computer Vision",
+                "Autonomous Vehicles",
+                "AI"
+            ],
+            "categories": [
+                "AI",
+                "Computer Vision"
+            ],
+            "publishedDate": "2024-04-01T13:00:00Z",
+            "updatedDate": "2024-04-02T14:00:00Z",
+            "summary": "Examining the latest computer vision techniques for enhancing the capabilities of autonomous vehicles."
+        }
+    ],
+    "AI Application": [
+        {
+            "postId": "3",
+            "title": "Formula Invention for Predictive Analytics in Healthcare",
+            "imgURL": "",
+            "content": "This paper introduces a new predictive formula for early diagnosis of chronic diseases using patient data. The formula is derived from extensive data analysis and validated through multiple clinical trials.",
+            "tags": [
+                "Predictive Analytics",
+                "Healthcare",
+                "Formula"
+            ],
+            "categories": [
+                "AI",
+                "Healthcare"
+            ],
+            "publishedDate": "2024-03-01T09:00:00Z",
+            "updatedDate": "2024-03-02T10:00:00Z",
+            "summary": "Introducing a new predictive formula for early diagnosis of chronic diseases in healthcare."
+        }
+    ],
+    "Natural Language Processing": [
+        {
+            "postId": "4",
+            "title": "Development of New Neural Network Architectures for LLMs",
+            "imgURL": "",
+            "content": "This study proposes novel neural network architectures tailored for large language models (LLMs), focusing on enhancing context understanding and reducing computational costs in training and inference.",
+            "tags": [
+                "LLM",
+                "Neural Networks",
+                "Research"
+            ],
+            "categories": [
+                "AI",
+                "Models"
+            ],
+            "publishedDate": "2024-03-15T11:00:00Z",
+            "updatedDate": "2024-03-16T12:00:00Z",
+            "summary": "Proposing new neural network architectures to improve the performance and efficiency of large language models."
+        },
+        {
+            "postId": "14",
+            "title": "Advances in Neural Network Pruning Techniques",
+            "imgURL": "",
+            "content": "This paper explores recent advances in neural network pruning techniques, which aim to reduce the complexity of neural networks without sacrificing performance, enabling more efficient deployment on edge devices.",
+            "tags": [
+                "Neural Networks",
+                "Pruning",
+                "AI"
+            ],
+            "categories": [
+                "AI",
+                "Models"
+            ],
+            "publishedDate": "2024-08-01T16:00:00Z",
+            "updatedDate": "2024-08-02T17:00:00Z",
+            "summary": "Exploring neural network pruning techniques to optimize models for edge devices."
+        }
+    ]
+}

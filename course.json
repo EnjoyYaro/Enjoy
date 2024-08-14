@@ -1,0 +1,336 @@
+[
+    {
+        "subjectId": "ML01",
+        "subjectTitle": "Machine Learning",
+        "subjectDescription": "Learn the fundamentals and advanced concepts of machine learning, including algorithms, models, and real-world applications.",
+        "sections": [
+            {
+                "sectionId": "S1",
+                "sectionTitle": "Introduction to Machine Learning",
+                "units": [
+                    {
+                        "unitId": "U1",
+                        "unitTitle": "Overview of Machine Learning",
+                        "topics": [
+                            {
+                                "topicId": "T1",
+                                "topicTitle": "What is Machine Learning?",
+                                "content": "Introduction to the core concepts of machine learning, its history, and applications in various industries."
+                            },
+                            {
+                                "topicId": "T2",
+                                "topicTitle": "Types of Machine Learning",
+                                "content": "Supervised, unsupervised, and reinforcement learning explained with examples."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U2",
+                        "unitTitle": "Machine Learning Algorithms",
+                        "topics": [
+                            {
+                                "topicId": "T3",
+                                "topicTitle": "Linear Regression",
+                                "content": "Understanding linear regression, its implementation, and use cases."
+                            },
+                            {
+                                "topicId": "T4",
+                                "topicTitle": "Decision Trees",
+                                "content": "Exploring decision trees, how they work, and their applications."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionId": "S2",
+                "sectionTitle": "Advanced Machine Learning Techniques",
+                "units": [
+                    {
+                        "unitId": "U3",
+                        "unitTitle": "Ensemble Methods",
+                        "topics": [
+                            {
+                                "topicId": "T5",
+                                "topicTitle": "Random Forest",
+                                "content": "An in-depth look at random forests, how they are built, and their advantages."
+                            },
+                            {
+                                "topicId": "T6",
+                                "topicTitle": "Boosting Algorithms",
+                                "content": "Understanding boosting, including AdaBoost, Gradient Boosting, and XGBoost."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U4",
+                        "unitTitle": "Model Evaluation and Optimization",
+                        "topics": [
+                            {
+                                "topicId": "T7",
+                                "topicTitle": "Cross-Validation",
+                                "content": "Techniques for cross-validation and its importance in model evaluation."
+                            },
+                            {
+                                "topicId": "T8",
+                                "topicTitle": "Hyperparameter Tuning",
+                                "content": "Methods for optimizing model performance through hyperparameter tuning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subjectId": "CV01",
+        "subjectTitle": "Computer Vision",
+        "subjectDescription": "Explore the world of computer vision, from image processing to advanced neural networks for vision tasks.",
+        "sections": [
+            {
+                "sectionId": "S3",
+                "sectionTitle": "Introduction to Computer Vision",
+                "units": [
+                    {
+                        "unitId": "U5",
+                        "unitTitle": "Fundamentals of Image Processing",
+                        "topics": [
+                            {
+                                "topicId": "T9",
+                                "topicTitle": "Image Basics",
+                                "content": "Introduction to images, pixels, and color models."
+                            },
+                            {
+                                "topicId": "T10",
+                                "topicTitle": "Image Transformation",
+                                "content": "Techniques for image transformation, including rotation, scaling, and translation."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U6",
+                        "unitTitle": "Feature Detection and Matching",
+                        "topics": [
+                            {
+                                "topicId": "T11",
+                                "topicTitle": "Edge Detection",
+                                "content": "Understanding edge detection techniques like Canny and Sobel."
+                            },
+                            {
+                                "topicId": "T12",
+                                "topicTitle": "Feature Matching",
+                                "content": "Exploring feature matching methods such as SIFT and SURF."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionId": "S4",
+                "sectionTitle": "Advanced Computer Vision",
+                "units": [
+                    {
+                        "unitId": "U7",
+                        "unitTitle": "Deep Learning for Vision",
+                        "topics": [
+                            {
+                                "topicId": "T13",
+                                "topicTitle": "Convolutional Neural Networks (CNNs)",
+                                "content": "Introduction to CNNs, their architecture, and applications in vision."
+                            },
+                            {
+                                "topicId": "T14",
+                                "topicTitle": "Object Detection",
+                                "content": "Techniques for object detection using YOLO and Faster R-CNN."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U8",
+                        "unitTitle": "Image Segmentation",
+                        "topics": [
+                            {
+                                "topicId": "T15",
+                                "topicTitle": "Semantic Segmentation",
+                                "content": "Overview of semantic segmentation techniques using deep learning."
+                            },
+                            {
+                                "topicId": "T16",
+                                "topicTitle": "Instance Segmentation",
+                                "content": "Understanding instance segmentation and its applications."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subjectId": "DL01",
+        "subjectTitle": "Deep Learning",
+        "subjectDescription": "Delve into the world of deep learning, covering neural networks, architectures, and advanced topics like GANs and RNNs.",
+        "sections": [
+            {
+                "sectionId": "S5",
+                "sectionTitle": "Basics of Deep Learning",
+                "units": [
+                    {
+                        "unitId": "U9",
+                        "unitTitle": "Introduction to Neural Networks",
+                        "topics": [
+                            {
+                                "topicId": "T17",
+                                "topicTitle": "Perceptrons",
+                                "content": "Understanding perceptrons and their role in building neural networks."
+                            },
+                            {
+                                "topicId": "T18",
+                                "topicTitle": "Activation Functions",
+                                "content": "Exploring various activation functions and their impact on neural networks."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U10",
+                        "unitTitle": "Training Deep Networks",
+                        "topics": [
+                            {
+                                "topicId": "T19",
+                                "topicTitle": "Backpropagation",
+                                "content": "Detailed explanation of the backpropagation algorithm and its implementation."
+                            },
+                            {
+                                "topicId": "T20",
+                                "topicTitle": "Optimization Techniques",
+                                "content": "Common optimization techniques like SGD, Adam, and RMSProp."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionId": "S6",
+                "sectionTitle": "Advanced Deep Learning",
+                "units": [
+                    {
+                        "unitId": "U11",
+                        "unitTitle": "Generative Models",
+                        "topics": [
+                            {
+                                "topicId": "T21",
+                                "topicTitle": "Generative Adversarial Networks (GANs)",
+                                "content": "An introduction to GANs, their architecture, and applications."
+                            },
+                            {
+                                "topicId": "T22",
+                                "topicTitle": "Variational Autoencoders (VAEs)",
+                                "content": "Understanding VAEs and their role in generative modeling."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U12",
+                        "unitTitle": "Recurrent Neural Networks (RNNs)",
+                        "topics": [
+                            {
+                                "topicId": "T23",
+                                "topicTitle": "Introduction to RNNs",
+                                "content": "Exploring RNNs, their architecture, and applications in sequence modeling."
+                            },
+                            {
+                                "topicId": "T24",
+                                "topicTitle": "Long Short-Term Memory (LSTM)",
+                                "content": "Detailed overview of LSTMs and their importance in deep learning."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "subjectId": "NLP01",
+        "subjectTitle": "Natural Language Processing",
+        "subjectDescription": "Explore the world of computer vision, from image processing to advanced neural networks for vision tasks.",
+        "sections": [
+            {
+                "sectionId": "S3",
+                "sectionTitle": "Introduction to Natural Language Processing",
+                "units": [
+                    {
+                        "unitId": "U5",
+                        "unitTitle": "Fundamentals of Natural Language Processing",
+                        "topics": [
+                            {
+                                "topicId": "T9",
+                                "topicTitle": "Natural Language Processing Basics",
+                                "content": "Introduction to images, pixels, and color models."
+                            },
+                            {
+                                "topicId": "T10",
+                                "topicTitle": "Natural Language Processing Transformation",
+                                "content": "Techniques for image transformation, including rotation, scaling, and translation."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U6",
+                        "unitTitle": "Text generation",
+                        "topics": [
+                            {
+                                "topicId": "T11",
+                                "topicTitle": "Natural Language Processing Edge Detection",
+                                "content": "Understanding edge detection techniques like Canny and Sobel."
+                            },
+                            {
+                                "topicId": "T12",
+                                "topicTitle": "Natural Language Processing Feature Matching",
+                                "content": "Exploring feature matching methods such as SIFT and SURF."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "sectionId": "S4",
+                "sectionTitle": "Advanced Natural Language Processing",
+                "units": [
+                    {
+                        "unitId": "U7",
+                        "unitTitle": "Deep Learning for Vision",
+                        "topics": [
+                            {
+                                "topicId": "T13",
+                                "topicTitle": "Convolutional Neural Networks (CNNs)",
+                                "content": "Introduction to CNNs, their architecture, and applications in vision."
+                            },
+                            {
+                                "topicId": "T14",
+                                "topicTitle": "Object Detection",
+                                "content": "Techniques for object detection using YOLO and Faster R-CNN."
+                            }
+                        ]
+                    },
+                    {
+                        "unitId": "U8",
+                        "unitTitle": "Image Segmentation",
+                        "topics": [
+                            {
+                                "topicId": "T15",
+                                "topicTitle": "Semantic Segmentation",
+                                "content": "Overview of semantic segmentation techniques using deep learning."
+                            },
+                            {
+                                "topicId": "T16",
+                                "topicTitle": "Instance Segmentation",
+                                "content": "Understanding instance segmentation and its applications."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+
+
+]
